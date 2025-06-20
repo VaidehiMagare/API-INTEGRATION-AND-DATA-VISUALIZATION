@@ -58,3 +58,5 @@ BY COMBINING API INTEGRATION AND DATA VISUALIZATION, THIS TASK SHOWCASES HOW TO 
 ![Image](https://github.com/user-attachments/assets/f23b4f84-ba05-41c6-bf13-84041a3e0b0c)
 
 ![Image](https://github.com/user-attachments/assets/3a15f7bb-cd42-4eb2-8291-7104a625a958)
+
+![Image](https://github.com/user-attachments/assets/4766bca6-bfe9-4c77-9107-7df7a85e8967)
