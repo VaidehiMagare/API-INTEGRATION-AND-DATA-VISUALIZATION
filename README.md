@@ -56,3 +56,5 @@ BY COMBINING API INTEGRATION AND DATA VISUALIZATION, THIS TASK SHOWCASES HOW TO 
 ## OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/f23b4f84-ba05-41c6-bf13-84041a3e0b0c)
+
+![Image](https://github.com/user-attachments/assets/3a15f7bb-cd42-4eb2-8291-7104a625a958)
